@@ -1,0 +1,1 @@
+self.__RSC_CSS_MANIFEST={"__entry_css__":{"/Users/andreaskiesel/Documents/Portfolio/project_metaversus/app/page":["/Users/andreaskiesel/Documents/Portfolio/project_metaversus/styles/globals.css"]},"/Users/andreaskiesel/Documents/Portfolio/project_metaversus/app/layout.js":["/Users/andreaskiesel/Documents/Portfolio/project_metaversus/styles/globals.css"]}
