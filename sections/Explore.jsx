@@ -2,14 +2,15 @@
 
 import { useState } from "react";
 import { motion } from "framer-motion";
-import { ExploreCard, TitleText, TypingText } from "../components";
-import { staggerContainer } from "../utils/motion";
-import { exploreWorlds } from "../constants";
 
 import styles from "../styles";
+import { exploreWorlds } from "../constants";
+import { staggerContainer } from "../utils/motion";
+import { ExploreCard, TitleText, TypingText } from "../components";
 
 const Explore = () => {
   const [active, setActive] = useState("world-2");
+
   return (
     <section className={`${styles.paddings}`} id="explore">
       <motion.div
@@ -23,8 +24,8 @@ const Explore = () => {
         <TitleText
           title={
             <>
-              Choose the world you want
-              <br className="md:block hidden" /> to explore
+              Choose the world you want <br className="md:block hidden" /> to
+              explore
             </>
           }
           textStyles="text-center"
