@@ -8,20 +8,20 @@
  */
 (self["webpackChunk_N_E"] = self["webpackChunk_N_E"] || []).push([["app/layout"],{
 
-/***/ "./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%2FUsers%2Fandreaskiesel%2FDocuments%2FPortfolio%2Fproject_metaversus%2Fstyles%2Fglobals.css&server=false!":
-/*!************************************************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%2FUsers%2Fandreaskiesel%2FDocuments%2FPortfolio%2Fproject_metaversus%2Fstyles%2Fglobals.css&server=false! ***!
-  \************************************************************************************************************************************************************************************************************/
+/***/ "./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%2FUsers%2Fandreaskiesel%2FProjects%2Fproject_metaversus%2Fstyles%2Fglobals.css&server=false!":
+/*!***********************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%2FUsers%2Fandreaskiesel%2FProjects%2Fproject_metaversus%2Fstyles%2Fglobals.css&server=false! ***!
+  \***********************************************************************************************************************************************************************************************/
 /***/ (function(__unused_webpack_module, __unused_webpack_exports, __webpack_require__) {
 
-eval(__webpack_require__.ts("(() => __webpack_require__.e(/*! import() */ \"styles_globals_css\").then(__webpack_require__.bind(__webpack_require__, /*! ./styles/globals.css */ \"./styles/globals.css\")))//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9ub2RlX21vZHVsZXMvbmV4dC9kaXN0L2J1aWxkL3dlYnBhY2svbG9hZGVycy9uZXh0LWZsaWdodC1jbGllbnQtZW50cnktbG9hZGVyLmpzP21vZHVsZXM9JTJGVXNlcnMlMkZhbmRyZWFza2llc2VsJTJGRG9jdW1lbnRzJTJGUG9ydGZvbGlvJTJGcHJvamVjdF9tZXRhdmVyc3VzJTJGc3R5bGVzJTJGZ2xvYmFscy5jc3Mmc2VydmVyPWZhbHNlIS5qcyIsIm1hcHBpbmdzIjoiQUFBQSxPQUFPLG1LQUFrSCIsInNvdXJjZXMiOlsid2VicGFjazovL19OX0UvP2NjYzUiXSwic291cmNlc0NvbnRlbnQiOlsiKCgpID0+IGltcG9ydCgvKiB3ZWJwYWNrTW9kZTogXCJsYXp5XCIgKi8gXCIvVXNlcnMvYW5kcmVhc2tpZXNlbC9Eb2N1bWVudHMvUG9ydGZvbGlvL3Byb2plY3RfbWV0YXZlcnN1cy9zdHlsZXMvZ2xvYmFscy5jc3NcIikpIl0sIm5hbWVzIjpbXSwic291cmNlUm9vdCI6IiJ9\n//# sourceURL=webpack-internal:///./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%2FUsers%2Fandreaskiesel%2FDocuments%2FPortfolio%2Fproject_metaversus%2Fstyles%2Fglobals.css&server=false!\n"));
+eval(__webpack_require__.ts("(() => __webpack_require__.e(/*! import() */ \"styles_globals_css\").then(__webpack_require__.bind(__webpack_require__, /*! ./styles/globals.css */ \"./styles/globals.css\")))//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9ub2RlX21vZHVsZXMvbmV4dC9kaXN0L2J1aWxkL3dlYnBhY2svbG9hZGVycy9uZXh0LWZsaWdodC1jbGllbnQtZW50cnktbG9hZGVyLmpzP21vZHVsZXM9JTJGVXNlcnMlMkZhbmRyZWFza2llc2VsJTJGUHJvamVjdHMlMkZwcm9qZWN0X21ldGF2ZXJzdXMlMkZzdHlsZXMlMkZnbG9iYWxzLmNzcyZzZXJ2ZXI9ZmFsc2UhLmpzIiwibWFwcGluZ3MiOiJBQUFBLE9BQU8sbUtBQXVHIiwic291cmNlcyI6WyJ3ZWJwYWNrOi8vX05fRS8/MTEyYSJdLCJzb3VyY2VzQ29udGVudCI6WyIoKCkgPT4gaW1wb3J0KC8qIHdlYnBhY2tNb2RlOiBcImxhenlcIiAqLyBcIi9Vc2Vycy9hbmRyZWFza2llc2VsL1Byb2plY3RzL3Byb2plY3RfbWV0YXZlcnN1cy9zdHlsZXMvZ2xvYmFscy5jc3NcIikpIl0sIm5hbWVzIjpbXSwic291cmNlUm9vdCI6IiJ9\n//# sourceURL=webpack-internal:///./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%2FUsers%2Fandreaskiesel%2FProjects%2Fproject_metaversus%2Fstyles%2Fglobals.css&server=false!\n"));
 
 /***/ })
 
 },
 /******/ function(__webpack_require__) { // webpackRuntimeModules
 /******/ var __webpack_exec__ = function(moduleId) { return __webpack_require__(__webpack_require__.s = moduleId); }
-/******/ __webpack_require__.O(0, ["main-app"], function() { return __webpack_exec__("./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%2FUsers%2Fandreaskiesel%2FDocuments%2FPortfolio%2Fproject_metaversus%2Fstyles%2Fglobals.css&server=false!"); });
+/******/ __webpack_require__.O(0, ["main-app"], function() { return __webpack_exec__("./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%2FUsers%2Fandreaskiesel%2FProjects%2Fproject_metaversus%2Fstyles%2Fglobals.css&server=false!"); });
 /******/ var __webpack_exports__ = __webpack_require__.O();
 /******/ _N_E = __webpack_exports__;
 /******/ }
