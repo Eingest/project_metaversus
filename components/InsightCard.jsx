@@ -6,7 +6,7 @@ import { fadeIn } from "../utils/motion";
 
 const InsightCard = ({ imgUrl, title, subtitle, index }) => (
   <motion.div
-    variant={fadeIn("up", "spring", index * 0.5, 1)}
+    variants={fadeIn("up", "spring", index * 0.5, 1)}
     className="flex md:flex-row flex-col gap-4"
   >
     <img
@@ -23,9 +23,10 @@ const InsightCard = ({ imgUrl, title, subtitle, index }) => (
           {subtitle}
         </p>
       </div>
+
       <div className="lg:flex hidden items-center justify-center w-[100px] h-[100px] rounded-full bg-transparent border-[1px] border-white">
         <img
-          src="arrow.svg"
+          src="/arrow.svg"
           alt="arrow"
           className="w-[40%] h-[40%] object-contain"
         />
